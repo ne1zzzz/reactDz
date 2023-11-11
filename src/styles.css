@@ -1,0 +1,43 @@
+.App {
+    font-family: sans-serif;
+    text-align: center;
+    font-size:20px;
+  
+    
+}
+
+body {
+    background: url(https://catherineasquithgallery.com/uploads/posts/2021-03/1614645649_18-p-fon-garri-potter-dlya-fotoshopa-19.jpg);
+    background-attachment: fixed;
+    background-repeat: repeat-x;
+    background-size:cover;
+   
+}
+
+.All {
+    background-color: rgb(224, 108, 31, 0.8)
+}
+
+.info {
+    text-align: left;
+    
+}
+
+.Reviwe {
+    text-align: left;
+   
+   
+}
+.Image img{
+    position:relative;
+   
+    border:solid;
+  float:right;
+    max-width:100%;
+   width:600px;
+   height:100px;
+   height:auto;
+
+}
+
+
